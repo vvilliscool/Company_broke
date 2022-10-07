@@ -1,7 +1,7 @@
 ## Company_broke_Prediction
 ### This is made during Internship at company(related to finance and investment) 
-
-
+  
+  
 
 2022-09-29 : Starting date  
 Purpose : improving corporate bankruptcy prediction  
