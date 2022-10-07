@@ -2,7 +2,7 @@
 This is made during Internship at company(related to finance and investment) 
 
 2022-09-29 : Starting date  
-Purpose : improving prediction of company closing
+Purpose : improving corporate bankruptcy prediction  
 Models tried : RandomForest, Catboost, LGBM, XGB
 
 2022-10-06  
