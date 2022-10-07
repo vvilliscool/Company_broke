@@ -1,7 +1,8 @@
-## Company_broke
+## Company_broke_Prediction
+This is made during Internship at company(related to finance and investment) 
 
 2022-09-29 : Starting date  
-This is made during Internship at company(related to finance and investment)  
+Purpose : improving prediction of company closing
 Models tried : RandomForest, Catboost, LGBM, XGB
 
 2022-10-06  
