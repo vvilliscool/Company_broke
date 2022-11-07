@@ -14,3 +14,4 @@ Purpose : trying from preprocess to calculate (value * feature importance)
 2022-10-12
 search catboost
 drop duplicate
+search how to class_weight to catboost (for reducing type 1,2 error)
