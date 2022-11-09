@@ -28,4 +28,6 @@ all of these try two (1. original land price 2. logged land price)
 
 2022-11-09
 1. add more continuous features and removes some features(existed)
+2. try AutoML - H2O : install failed
+              - AutoGluon : install success
 
