@@ -24,12 +24,12 @@
 ##
 2022-10-27  
   - try 4 kinds of data cases  
-1) change just lab type  
-2) change lab type and replace 0 to mean of land price  
-3) change lab type and qcut 10  
-4) change lab type, replace 0 to mean of land price and qcut 10  
+  1) change just lab type  
+  2) change lab type and replace 0 to mean of land price  
+  3) change lab type and qcut 10  
+  4) change lab type, replace 0 to mean of land price and qcut 10  
 
-  all of these try two (1. original land price 2. logged land price)
+  -- all of these try two (1. original land price 2. logged land price)
 
 
 ##
