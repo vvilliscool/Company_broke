@@ -16,18 +16,18 @@
 
 ##
 2022-10-12  
-  search catboost  
-  drop duplicate  
-  search how to class_weight to catboost (for reducing type 1,2 error)
+  - search catboost  
+  - drop duplicate  
+  - search how to class_weight to catboost (for reducing type 1,2 error)
 
 
 ##
 2022-10-27  
-  try 4 kinds of data cases  
-1. change just lab type  
-2. change lab type and replace 0 to mean of land price  
-3. change lab type and qcut 10  
-4. change lab type, replace 0 to mean of land price and qcut 10  
+  - try 4 kinds of data cases  
+1) change just lab type  
+2) change lab type and replace 0 to mean of land price  
+3) change lab type and qcut 10  
+4) change lab type, replace 0 to mean of land price and qcut 10  
 
   all of these try two (1. original land price 2. logged land price)
 
