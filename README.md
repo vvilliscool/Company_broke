@@ -29,7 +29,7 @@
   3) change lab type and qcut 10  
   4) change lab type, replace 0 to mean of land price and qcut 10  
 
-  -- all of these try two (1. original land price 2. logged land price)
+    - all of these try two (1. original land price 2. logged land price)
 
 
 ##
