@@ -30,4 +30,7 @@ all of these try two (1. original land price 2. logged land price)
 1. add more continuous features and removes some features(existed)
 2. try AutoML - H2O : install failed
               - AutoGluon : install success
-
+3. AutoGluon
+      - by point of Accuracy  : WeightedEnsemble_L2 (0.9896)
+      - by point of Precision : NeuralNetTorch  (0.815789)
+      - by point of Recall    : KNeighborsDist  (0.623613)
