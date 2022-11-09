@@ -24,3 +24,8 @@ try 4 kinds of data cases
 4. change lab type, replace 0 to mean of land price and qcut 10  
 
 all of these try two (1. original land price 2. logged land price)
+
+
+2022-11-09
+1. add more continuous features and removes some features(existed)
+
