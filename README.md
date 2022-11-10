@@ -41,3 +41,12 @@
       - by point of Accuracy  : WeightedEnsemble_L2 (0.9896)
       - by point of Precision : NeuralNetTorch  (0.815789)
       - by point of Recall    : KNeighborsDist  (0.623613)
+      
+
+##
+2022-11-10  
+  - using scaler :  
+    - StandardScaler (a.k.a good for Classification)  
+    - MinMaxScaler (a.k.a good for Regression)  
+    
+  
