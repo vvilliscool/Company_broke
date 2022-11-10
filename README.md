@@ -49,4 +49,4 @@
     - StandardScaler (a.k.a good for Classification)  
     - MinMaxScaler (a.k.a good for Regression)  
     
-  
+  - try KNN at the point of accuracy, precision and recall
