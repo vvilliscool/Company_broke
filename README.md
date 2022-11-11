@@ -55,6 +55,6 @@
     - recall : K = 1, 3, 5 ...  (odd numbers but decreasing)
 
   - try KNN (with MinMaxScaler) at the point of accuracy, precision and recall : 
-    - accuracy : K = 10
-    - precision : K = 10
-    - recall : K = 11
+    - accuracy : K = 2, 4  ---  10
+    - precision : K = 2, 4  ---  10
+    - recall : K = 1, 3, 5 ...  (odd numbers but decreasing)
