@@ -53,3 +53,8 @@
     - accuracy : K = 17, 18
     - precision : K = 18
     - recall : K = 17
+
+  - try KNN (with MinMaxScaler) at the point of accuracy, precision and recall : 
+    - accuracy : K = 18
+    - precision : K = 18
+    - recall : K = 15
