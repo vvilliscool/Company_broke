@@ -45,7 +45,7 @@
 
 ##
 2022-11-10  
-  - using scalers :  
+  - using Sklearn - Scalers :  
     - StandardScaler (a.k.a good for Classification)  
     - MinMaxScaler (a.k.a good for Regression)  
     
