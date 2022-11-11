@@ -55,6 +55,6 @@
     - recall : K = 17
 
   - try KNN (with MinMaxScaler) at the point of accuracy, precision and recall : 
-    - accuracy : K = 18
-    - precision : K = 18
-    - recall : K = 15
+    - accuracy : K = 10
+    - precision : K = 10
+    - recall : K = 11
