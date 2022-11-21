@@ -72,7 +72,6 @@
   - about document
     - put the number of features
     - like. originally AA(n) features. after preprocessing, it became BB(n) features.
-    - 
 
 
 
