@@ -71,7 +71,7 @@
 2022-11-14  
   - about document
     - put the number of features
-    - like. originally AA(n) features. after preprocessing, it became BB(n) features.
+    - like. originally k features. after preprocessing, it became n features.
 
 
 
