@@ -64,7 +64,7 @@
 2022-11-11  
   - for documentation of these results:
     - making presentation more clear
-    - make sure the meaning of table corret and clear (for everyone even first time seeing)
+    - make sure the meaning of table corret and clear 
     - using layouts
 
 
