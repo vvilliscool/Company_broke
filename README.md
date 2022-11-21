@@ -58,3 +58,20 @@
     - accuracy : K = 2, 4  ---  10
     - precision : K = 2, 4  ---  10
     - recall : K = 1, 3, 5 ...  (odd numbers but decreasing)
+    
+    
+##
+2022-11-11  
+  - for documentation of these results:
+    - making presentation more clear
+    - make sure the meaning of table corret and clear (for everyone even first time seeing)
+    
+
+
+
+
+
+### 생각의 흐름 및 방안 도출 과정
+전체 속성 중 원소 수 10개의 조합 -> 메모리 오류 -> 속성을 절반으로 나눠 각각 원소 수 5개의 조합을 만들어 이어붙이기 (순차 계산 및 추출)  
+--> 대표성을 생각하여 random을 도입 --> 앞 5개원소 조합 random 선택, 뒤 5개원소 조합 random 선택으로 다양성, 무작위성 증가  
+--> 10개의 원소를 random하게 뽑아 계산되게하기 (원소 자체로하면 메모리가 크니, 숫자를 뽑아 index 조회로 list 만들기)
