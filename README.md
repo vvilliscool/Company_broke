@@ -65,7 +65,7 @@
   - for documentation of these results:
     - making presentation more clear
     - make sure the meaning of table corret and clear (for everyone even first time seeing)
-    
+    - using layouts
 
 
 
