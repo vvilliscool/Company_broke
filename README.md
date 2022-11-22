@@ -73,16 +73,15 @@
     - put the number of features
     - like. originally k features. after preprocessing, it became n features.
 
-
-
-PULSE
-가중합으로 AR 계산하는 것과 비슷하나 범주변수 대신 부도율 계산된 것을 넣어서 계산하고 10분위수로 나눔
-
-1. pulse 된거 기준으로 2진분류하기
-2. 73개의 feature에서 feature 줄여가면서 최적의 조합을 찾기 (개수, feature)
-
-
--- qcut의 경우, 동일한 값이 있으면 사용이 불가능함 -> 1. rank()함수를 이용해 순서를 만든뒤 2. 전체 개수로 나누기 3. 10곱하기 4.1더하기로 1~10까지의 수 생성
+  - change the feature values
+    - PULSE
+      - 가중합으로 AR 계산하는 것과 비슷하나 범주변수 대신 부도율 계산된 것을 넣어서 계산하고 10분위수로 나눔
+        1. pulse 된거 기준으로 2진분류하기
+        2. 73개의 feature에서 feature 줄여가면서 최적의 조합을 찾기 (개수, feature)
+    
+    - issue  
+    -- qcut의 경우, 동일한 값이 있으면 사용이 불가능함  
+    -> 1. rank()함수를 이용해 순서를 만든뒤 2. 전체 개수로 나누기 3. 10곱하기 4.1더하기로 1~10까지의 수 생성
 
 
 
