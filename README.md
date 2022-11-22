@@ -96,4 +96,4 @@
     
 ### random으로 10개 원소 조합 30만개, 15개 원소조합 30만개의 결과 도출 중
   - using kaggle notebook
-    - this should be finished within 12hours 
+    - this should be finished within 12hours (otherwise it will be stopped)
