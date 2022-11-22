@@ -1,5 +1,5 @@
 ## << Company_broke_Prediction Project Summary >>
-### This is made during Internship at company(related to finance and investment) 
+### This is being written during Internship at company(related to finance and investment) 
 
   
 ##
